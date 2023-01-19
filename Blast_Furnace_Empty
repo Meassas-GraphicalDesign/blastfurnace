@@ -1,4 +1,16 @@
 GUID 70e027100f0a4b3880a7356695a0135c
 Type Medium
 ID 60283
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 60286
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 60286
+Interactability_Reward_0_Value False
+
 Has_Clip_Prefab false
