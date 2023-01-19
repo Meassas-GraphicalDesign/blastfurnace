@@ -1,0 +1,18 @@
+GUID fea6f2f4ad75453a9e4c4d1fdbb4e8cc
+Type Medium
+ID 60287
+
+Interactability Quest
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 60286
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Allow_Unset
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 60286
+Interactability_Reward_0_Value False
+
+Has_Clip_Prefab false
